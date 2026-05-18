@@ -520,23 +520,6 @@ Punto importante: el agente no debe pedir al cliente que digite un porcentaje de
 ---
 
 
-## 18. Valor para el banco
-
-El agente aporta valor en tres dimensiones:
-
-1. **Eficiencia operativa**  
-   Permite atender múltiples clientes en paralelo y reducir carga del call center.
-
-2. **Consistencia del tratamiento**  
-   Aplica reglas homogéneas de comunicación, seguridad y derivación.
-
-3. **Mejor experiencia del cliente**  
-   Usa un tono empático y evita presión indebida, lo que puede facilitar que el cliente continúe la conversación y evalúe alternativas de pago.
-
-El agente no sustituye la decisión humana en casos sensibles; la complementa. Los asesores pueden enfocarse en reclamos complejos, excepciones o negociaciones que requieren validación formal.
-
----
-
 ## 21. Archivos principales
 
 ```text
@@ -545,5 +528,6 @@ README.md                                  # Documentación del proyecto
 /content/data_cobranza/clientes_cobranza.csv
 /content/data_cobranza/politicas_cobranza.csv
 ```
+<img width="1491" height="1055" alt="image" src="https://github.com/user-attachments/assets/fefaec15-3e99-453a-9877-ca0593785091" />
 
 
