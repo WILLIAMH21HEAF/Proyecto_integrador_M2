@@ -1,0 +1,7 @@
+﻿codigo_politica,categoria,regla,valor,descripcion
+P001,seguridad,No solicitar datos sensibles,"CVV, contraseña, número completo de tarjeta",El agente no debe pedir ni almacenar datos de autenticación o tarjeta completa.
+P002,descuento,Descuento automático máximo,Según campo descuento_max_pct por cliente,El agente solo puede simular descuentos dentro del límite asignado al perfil.
+P003,descuento,Descuento mayor al límite,requiere_aprobacion=True,"Si el cliente solicita un descuento superior al límite, se crea registro y se escala a revisión humana."
+P004,trato_cliente,Comunicación responsable,"tono claro, respetuoso, empático y no amenazante",Toda respuesta debe orientarse a solución y evitar presión indebida.
+P005,reclamos,Deuda no reconocida o pago no aplicado,crear ticket y escalar,El agente no debe discutir con el cliente; debe registrar el caso y derivar.
+P006,promesa_pago,Confirmación obligatoria,pedir confirmación antes de registrar,"Antes de guardar una promesa, el agente debe confirmar monto y fecha."

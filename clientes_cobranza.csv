@@ -1,0 +1,6 @@
+﻿dni,nombre,producto,deuda_total,dias_atraso,estado,capacidad_pago,segmento,ultimo_pago,telefono_valido,canal_preferido,descuento_max_pct,cuotas_max,flag_reclamo_abierto,fecha_ultimo_contacto
+12345678,Juan Pérez,Tarjeta de crédito,5000.0,45,Mora media,media,regular,No registra pago en los últimos 30 días,True,whatsapp,25,6,False,2026-05-10
+87654321,María López,Préstamo personal,12000.0,120,Mora avanzada,baja,vulnerable,Pago parcial hace 75 días,True,whatsapp,35,12,False,2026-05-08
+11223344,Carlos Ramírez,Crédito efectivo,2500.0,15,Mora inicial,alta,preferente,Pago parcial hace 10 días,True,web,10,3,False,2026-05-12
+44556677,Ana Torres,Crédito vehicular,8500.0,75,Mora alta,media,regular,"Indica pago realizado, pendiente de validación",True,whatsapp,20,8,True,2026-05-14
+99887766,Luis Gómez,Préstamo personal,1800.0,5,Mora temprana,alta,nuevo,Pago completo hace 35 días,True,app,0,2,False,2026-05-15
